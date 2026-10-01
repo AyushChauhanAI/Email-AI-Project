@@ -1,0 +1,96 @@
+{
+  "status": "success",
+  "emails_processed": 5,
+  "results": [
+    {
+      "intent": "other",
+      "summary": "Notification that a fine-grained personal access token was added to your GitHub account, with links to view the token and security log.",
+      "urgency": "medium",
+      "action_required": false,
+      "key_entities": {
+        "sender_name": "The GitHub Team",
+        "company": "GitHub",
+        "deadline": null,
+        "budget": null
+      },
+      "headers": {
+        "Subject": "[GitHub] A fine-grained personal access token has been added to your\r\n account",
+        "From": "GitHub <noreply@github.com>",
+        "To": "Ayush Chauhan <ayushchauhan4848@gmail.com>",
+        "Date": "Wed, 23 Sep 2026 10:54:07 -0700"
+      }
+    },
+    {
+      "intent": "job_opportunity",
+      "summary": "Indeed job alert notifying about a new Computer Vision Engineer vacancy in Mohali, Punjab, including a Software Engineer (ROR) position at Maropost.",
+      "urgency": "low",
+      "action_required": false,
+      "key_entities": {
+        "sender_name": null,
+        "company": "Maropost",
+        "deadline": null,
+        "budget": null
+      },
+      "headers": {
+        "Subject": "Software Engineer (ROR) - Commerce Cloud at Maropost. 1 computer vision engineer job in Mohali, Punjab",
+        "From": "\"Indeed\" <donotreply@jobalert.indeed.com>",
+        "To": "<ayushchauhan4848@gmail.com>",
+        "Date": "Wed, 23 Sep 2026 17:37:22 +0000"
+      }
+    },
+    {
+      "intent": "other",
+      "summary": "The email provides a one-time GitHub sudo authentication code (58193584) that is valid for 15 minutes.",
+      "urgency": "high",
+      "action_required": true,
+      "key_entities": {
+        "sender_name": "The GitHub Team",
+        "company": "GitHub",
+        "deadline": null,
+        "budget": null
+      },
+      "headers": {
+        "Subject": "[GitHub] Sudo email verification code",
+        "From": "GitHub <noreply@github.com>",
+        "To": "Ayush Chauhan <ayushchauhan4848@gmail.com>",
+        "Date": "Wed, 23 Sep 2026 10:36:39 -0700"
+      }
+    },
+    {
+      "intent": "job_opportunity",
+      "summary": "Indeed job alert listing 14 new Data Science related vacancies in Mohali and Chandigarh with various positions and salary ranges.",
+      "urgency": "low",
+      "action_required": false,
+      "key_entities": {
+        "sender_name": null,
+        "company": "Indeed",
+        "deadline": null,
+        "budget": null
+      },
+      "headers": {
+        "Subject": "Artificial Intelligence Intern at pannu tower. 13 more Data Science jobs in Mohali, Punjab",
+        "From": "\"Indeed\" <donotreply@jobalert.indeed.com>",
+        "To": "<ayushchauhan4848@gmail.com>",
+        "Date": "Wed, 23 Sep 2026 17:34:17 +0000"
+      }
+    },
+    {
+      "intent": "job_opportunity",
+      "summary": "Indeed sent a job alert listing three AI‑related positions in Mohali, Punjab, with salary ranges.",
+      "urgency": "low",
+      "action_required": false,
+      "key_entities": {
+        "sender_name": "Indeed",
+        "company": null,
+        "deadline": null,
+        "budget": "₹8,000 - ₹10,000 per month; ₹5,000 - ₹8,000 per month; ₹3,00,000 - ₹13,00,000 per year"
+      },
+      "headers": {
+        "Subject": "Artificial Intelligence Intern at pannu tower. 2 more data scientist jobs in Mohali, Punjab",
+        "From": "\"Indeed\" <donotreply@jobalert.indeed.com>",
+        "To": "<ayushchauhan4848@gmail.com>",
+        "Date": "Wed, 23 Sep 2026 17:25:17 +0000"
+      }
+    }
+  ]
+}

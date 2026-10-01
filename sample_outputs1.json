@@ -1,0 +1,60 @@
+{
+  "status": "success",
+  "emails_processed": 3,
+  "results": [
+    {
+      "intent": "job_opportunity",
+      "summary": "Indeed sent a job alert listing three AI‑related positions in Mohali, Punjab, with salary ranges.",
+      "urgency": "low",
+      "action_required": false,
+      "key_entities": {
+        "sender_name": null,
+        "company": null,
+        "deadline": null,
+        "budget": null
+      },
+      "headers": {
+        "Subject": "Artificial Intelligence Intern at pannu tower. 2 more data scientist jobs in Mohali, Punjab",
+        "From": "\"Indeed\" <donotreply@jobalert.indeed.com>",
+        "To": "<ayushchauhan4848@gmail.com>",
+        "Date": "Wed, 23 Sep 2026 17:25:17 +0000"
+      }
+    },
+    {
+      "intent": "job_opportunity",
+      "summary": "An Indeed job alert listing 11 new remote data science and AI related positions, including roles such as Data Scientist, AI/ML Engineer, and Full Stack Engineer.",
+      "urgency": "low",
+      "action_required": false,
+      "key_entities": {
+        "sender_name": null,
+        "company": null,
+        "deadline": null,
+        "budget": null
+      },
+      "headers": {
+        "Subject": "Data Science Faculty - Part Time at Ekalasaala. 10 more data scientist jobs in Remote",
+        "From": "\"Indeed\" <donotreply@jobalert.indeed.com>",
+        "To": "<ayushchauhan4848@gmail.com>",
+        "Date": "Wed, 23 Sep 2026 17:22:49 +0000"
+      }
+    },
+    {
+      "intent": "job_opportunity",
+      "summary": "Indeed job alert listing 14 new Data Science related vacancies in Chandigarh and nearby areas.",
+      "urgency": "low",
+      "action_required": false,
+      "key_entities": {
+        "sender_name": null,
+        "company": null,
+        "deadline": null,
+        "budget": null
+      },
+      "headers": {
+        "Subject": "Artificial Intelligence Intern at pannu tower. 13 more Data Science jobs in Chandigarh, Chandigarh",
+        "From": "\"Indeed\" <donotreply@jobalert.indeed.com>",
+        "To": "<ayushchauhan4848@gmail.com>",
+        "Date": "Wed, 23 Sep 2026 16:08:07 +0000"
+      }
+    }
+  ]
+}

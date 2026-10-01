@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "emails_processed": 1,
+  "results": [
+    {
+      "intent": "other",
+      "summary": "GitHub notified that a fine-grained personal access token was added to your account and provided links for more information and support.",
+      "urgency": "low",
+      "action_required": false,
+      "key_entities": {
+        "sender_name": "GitHub Team",
+        "company": "GitHub",
+        "deadline": null,
+        "budget": null
+      },
+      "headers": {
+        "Subject": "[GitHub] A fine-grained personal access token has been added to your\r\n account",
+        "From": "GitHub <noreply@github.com>",
+        "To": "Ayush Chauhan <ayushchauhan4848@gmail.com>",
+        "Date": "Wed, 23 Sep 2026 10:54:07 -0700"
+      }
+    }
+  ]
+}
